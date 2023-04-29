@@ -7,7 +7,7 @@
 Tras cursar varias asignaturas en la carrera he adquirido una base de distintos lenguajes, a destacar Pyhthon.  
 Las últimas asignaturas en las que he hecho uso de ellos son:
 
-* Programación declarativa: **Haskel**  y **PROLOG**
+* [Programación declarativa:](https://github.com/SergioGM08/PRDE-22-23.git) **Haskel**  y **PROLOG**
 * [Programación Paralela:](https://github.com/SergioGM08/PRPA-22-23.git) **Python**
 * [Diseño de algoritmos:](https://github.com/SergioGM08/DIAL-22-23.git) **C++**, **Python** y **Dafny**
 * Análisis numérico: **MATLAB**
