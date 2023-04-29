@@ -8,8 +8,8 @@ Tras cursar varias asignaturas en la carrera he adquirido una base de distintos 
 Las últimas asignaturas en las que he hecho uso de ellos son:
 
 * Programación declarativa: **Haskel**  y **PROLOG**
-* Programación Paralela: **Python**
-* Diseño de algoritmos: **C++**, **Python** y **Dafny**
+* [Programación Paralela:](https://github.com/SergioGM08/PRPA-22-23.git) **Python**
+* [Diseño de algoritmos:](https://github.com/SergioGM08/DIAL-22-23.git) **C++**, **Python** y **Dafny**
 * Análisis numérico: **MATLAB**
 
 
