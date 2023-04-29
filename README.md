@@ -13,9 +13,10 @@ Las últimas asignaturas en las que he hecho uso de ellos son:
 * Análisis numérico: **MATLAB**
 
 
-## ¿Qué habrá aquí?
+### ¿Qué habrá aquí?
 
-Seguiré actualizando con distintas prácticas, entregas y ejercicios que crea merezcan la pena ser publicados. Más adelante, futuros proyectos.
+Seguiré actualizando con distintas prácticas, entregas y ejercicios que crea merezcan la pena ser publicados.  
+Más adelante, futuros proyectos.
 
 ---
 
