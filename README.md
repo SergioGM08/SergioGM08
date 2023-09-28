@@ -10,6 +10,7 @@ Las últimas asignaturas en las que he hecho uso de ellos son:
 * [Programación declarativa:](https://github.com/SergioGM08/PRDE-22-23.git) **Haskel**  y **PROLOG**
 * [Programación Paralela:](https://github.com/SergioGM08/PRPA-22-23.git) **Python**
 * [Diseño de algoritmos:](https://github.com/SergioGM08/DIAL-22-23.git) **C++**, **Python** y **Dafny**
+* [Álgebra computacional:](https://github.com/SergioGM08/ALCP-23-24.git) **Python**
 * Análisis numérico: **MATLAB**
 
 
