@@ -11,6 +11,7 @@ Las últimas asignaturas en las que he hecho uso de ellos son:
 * [Programación Paralela:](https://github.com/SergioGM08/PRPA-22-23.git) **Python**
 * [Diseño de algoritmos:](https://github.com/SergioGM08/DIAL-22-23.git) **C++**, **Python** y **Dafny**
 * [Álgebra computacional:](https://github.com/SergioGM08/ALCP-23-24.git) **Python**
+* [Geometría computacional:](https://github.com/SergioGM08/GCOM-23-24) **Python**
 * Análisis numérico: **MATLAB**
 
 
