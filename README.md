@@ -1,6 +1,6 @@
 # Bienvenido
 
-**Estudiante** finalizando el grado en **Matemáticas** en la especialidad de computación en la Universidad Complutense de Madrid.
+**Estudiante** finalizando el grado en **Matemáticas** en la especialidad de **Ciencias de la Computación** en la Universidad Complutense de Madrid.
 
 ## Conocimientos:
 
