@@ -14,11 +14,7 @@ Las últimas asignaturas en las que he hecho uso de ellos son:
 * [Geometría computacional:](https://github.com/SergioGM08/GCOM-23-24) **Python**
 * Análisis numérico: **MATLAB**
 
-
-### ¿Qué habrá aquí?
-
-Seguiré actualizando con distintas prácticas, entregas y ejercicios que crea merezcan la pena ser publicados.  
-
+## Everyday gadgets:
 * [Gadgets:](https://github.com/SergioGM08/Gadgets) Simple tools for everyday life. Feel free to download them.
 
 ---
