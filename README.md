@@ -18,7 +18,8 @@ Las últimas asignaturas en las que he hecho uso de ellos son:
 ### ¿Qué habrá aquí?
 
 Seguiré actualizando con distintas prácticas, entregas y ejercicios que crea merezcan la pena ser publicados.  
-Más adelante, futuros proyectos.
+
+* [Gadgets:](https://github.com/SergioGM08/Gadgets) Simple tools for everyday life. Feel free to download them.
 
 ---
 
