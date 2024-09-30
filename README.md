@@ -2,7 +2,7 @@
 
 **Estudiante** finalizando el grado en **Matemáticas** en la especialidad de **Ciencias de la Computación** en la Universidad Complutense de Madrid.
 
-## Conocimientos:
+## Conocimientos
 
 Tras cursar varias asignaturas en la carrera he adquirido una base de distintos lenguajes, a destacar Pyhthon.  
 Las últimas asignaturas en las que he hecho uso de ellos son:
@@ -14,7 +14,10 @@ Las últimas asignaturas en las que he hecho uso de ellos son:
 * [Geometría computacional:](https://github.com/SergioGM08/GCOM-23-24) **Python**
 * Análisis numérico: **MATLAB**
 
-## Everyday gadgets:
+## TFG
+* [Trabajo de fin de grado:](https://github.com/SergioGM08/TFG)
+
+## Everyday gadgets
 * [Gadgets:](https://github.com/SergioGM08/Gadgets) Simple tools for everyday life. Feel free to download them.
 
 ---
