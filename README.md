@@ -15,7 +15,7 @@ Las últimas asignaturas en las que he hecho uso de ellos son:
 * Análisis numérico: **MATLAB**
 
 ## TFG
-* [Trabajo de fin de grado:](https://github.com/SergioGM08/TFG)
+* [Trabajo de fin de grado](https://github.com/SergioGM08/TFG)
 
 ## Everyday gadgets
 * [Gadgets:](https://github.com/SergioGM08/Gadgets) Simple tools for everyday life. Feel free to download them.
