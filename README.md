@@ -4,7 +4,7 @@
 
 ## Conocimientos
 
-Tras cursar varias asignaturas en la carrera he adquirido una base de distintos lenguajes, a destacar Pyhthon.  
+Tras cursar varias asignaturas en la carrera he adquirido una base de distintos lenguajes, a destacar Python.  
 Las últimas asignaturas en las que he hecho uso de ellos son:
 
 * [Programación declarativa:](https://github.com/SergioGM08/PRDE-22-23.git) **Haskel**  y **PROLOG**
