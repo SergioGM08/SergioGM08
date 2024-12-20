@@ -26,6 +26,7 @@ Las últimas asignaturas en las que he hecho uso de ellos son:
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sergiogm08&label=Profile%20views&color=0e75b6&style=flat" alt="sergiogm08" /> </p>
+
 ---
 >Nadie tiene el poder de tener todo lo que desea pero está en sus manos no querer lo que no tiene y, utilizar con entusiasmo de la mejor manera lo que si tiene. (Séneca)
 
